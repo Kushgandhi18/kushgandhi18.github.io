@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/my_portfolio/static/css/main.df3ed5b2.css",
-    "main.js": "/my_portfolio/static/js/main.5b513534.js",
+    "main.js": "/my_portfolio/static/js/main.1c005161.js",
     "static/css/487.bb36206c.chunk.css": "/my_portfolio/static/css/487.bb36206c.chunk.css",
     "static/js/487.5da8d1f6.chunk.js": "/my_portfolio/static/js/487.5da8d1f6.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/my_portfolio/static/css/990.c6a7ee28.chunk.css",
     "static/js/990.d4baaf99.chunk.js": "/my_portfolio/static/js/990.d4baaf99.chunk.js",
     "static/media/Python_Essentials_For_MLOps_Coursera.png": "/my_portfolio/static/media/Python_Essentials_For_MLOps_Coursera.e0af2d17109084dff3c2.png",
+    "static/media/DevOps, DataOps, MLOps.png": "/my_portfolio/static/media/DevOps, DataOps, MLOps.7ad74439b7621430b16c.png",
     "static/media/Mathematics_and_Statistics_of_ML_and_DataScience.png": "/my_portfolio/static/media/Mathematics_and_Statistics_of_ML_and_DataScience.934a67032ad9eec79b09.png",
     "static/media/Algorithmic_Trading.png": "/my_portfolio/static/media/Algorithmic_Trading.1dc11dee1841bfd3d294.png",
     "static/media/Montserrat-Regular.ttf": "/my_portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -21,7 +22,7 @@
     "index.html": "/my_portfolio/index.html",
     "static/media/talksCardBack.svg": "/my_portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.df3ed5b2.css.map": "/my_portfolio/static/css/main.df3ed5b2.css.map",
-    "main.5b513534.js.map": "/my_portfolio/static/js/main.5b513534.js.map",
+    "main.1c005161.js.map": "/my_portfolio/static/js/main.1c005161.js.map",
     "487.bb36206c.chunk.css.map": "/my_portfolio/static/css/487.bb36206c.chunk.css.map",
     "487.5da8d1f6.chunk.js.map": "/my_portfolio/static/js/487.5da8d1f6.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/my_portfolio/static/css/990.c6a7ee28.chunk.css.map",
@@ -29,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.df3ed5b2.css",
-    "static/js/main.5b513534.js"
+    "static/js/main.1c005161.js"
   ]
 }
