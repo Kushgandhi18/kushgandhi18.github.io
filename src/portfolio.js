@@ -186,6 +186,33 @@ const achievementSection = {
         { name: "Certificate", url: "https://www.udemy.com/certificate/UC-5bcbe192-f5f1-4bc9-913a-8d1f3ca209e7/" }
       ]
     },
+    {
+      title: "DevOps, DataOps, MLOps",
+      subtitle: "Gained practical knowledge of DevOps and MLOps practices.",
+      image: require("./assets/images/DevOps, DataOps, MLOps.png"),
+      imageAlt: "DevOps Certificate",
+      footerLink: [
+        { name: "Certificate", url: "https://coursera.org/share/af94f656e8fc1693fc465c38304aa871" }
+      ]
+    },
+    {
+      title: "ML Ops Platform: Amazon SageMaker and Azure ML",
+      subtitle: "Learned to deploy and manage ML models using cloud platforms.",
+      image: require("./assets/images/MLOps_Platform_Amazon_SageMaker_and_Azure copy.png"),
+      imageAlt: "ML Ops Certificate",
+      footerLink: [
+        { name: "Certificate", url: "https://coursera.org/share/d79bbd64c9cc0724ce76772c2d87b976" }
+      ]
+    },
+    {
+      title: "ML Ops: Machine Learning Operations",
+      subtitle: "Gained practical knowledge of DevOps and MLOps practices.",
+      image: require("./assets/images/MLOps_Machine_Learning_Operation.png"),
+      imageAlt: "ML Ops Certificate",
+      footerLink: [
+        { name: "Certificate", url: "https://coursera.org/share/98028f26567b95c962ad8d40c12f3fb2" }
+      ]
+    },
    
   ],
   display: true
