@@ -17,22 +17,34 @@
   color: $subTitle;
 }
 
-/* Add this section below */
 .achievement-cards-div {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* 3 certificates per row */
+  grid-template-columns: repeat(3, 1fr);
   gap: 2rem;
+  justify-content: center;
   justify-items: center;
-  align-items: start;
-  margin-top: 20px;
+  align-items: stretch; /* Correct: Makes all cards in a row the same height */
+  max-width: 1200px;
+  margin: 20px auto 0;
 }
 
-.achievement-cards-div .achievement-card {
+/* * * FIX 1: This now targets .certificate-card (from your React component)
+ * */
+.achievement-cards-div .certificate-card {
   width: 100%;
   max-width: 350px;
+  display: flex;
+  flex-direction: column; /* Correct: Stacks card content vertically */
 }
 
-/* Responsive design */
+/* * * FIX 2: This is the new rule that pushes the footer to the bottom
+ * */
+.certificate-card-footer {
+  margin-top: auto;
+}
+
+/* --- Responsive Design --- */
+
 @media (max-width: 1380px) {
   .achievement-heading {
     font-size: 40px;
@@ -41,7 +53,7 @@
 
 @media (max-width: 992px) {
   .achievement-cards-div {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr); /* 2 cards per row */
   }
 }
 
@@ -58,36 +70,6 @@
   }
 
   .achievement-cards-div {
-    grid-template-columns: repeat(1, 1fr);
-  }
-}
-
-.achievement-cards-div {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr); /* Exactly 3 cards per row */
-  gap: 2rem;
-  justify-content: center;
-  justify-items: center;
-  align-items: start;
-  max-width: 1200px;  /* keeps layout centered */
-  margin: 0 auto;     /* centers the whole grid */
-  margin-top: 20px;
-}
-
-.achievement-cards-div .achievement-card {
-  width: 100%;
-  max-width: 350px;
-}
-
-/* Responsive breakpoints */
-@media (max-width: 992px) {
-  .achievement-cards-div {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media (max-width: 768px) {
-  .achievement-cards-div {
-    grid-template-columns: repeat(1, 1fr);
+    grid-template-columns: repeat(1, 1fr); /* 1 card per row */
   }
 }
