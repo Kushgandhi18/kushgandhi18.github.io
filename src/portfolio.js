@@ -205,8 +205,8 @@ const achievementSection = {
       ]
     },
     {
-      title: "ML Ops: Machine Learning Operations",
-      subtitle: "Gained practical knowledge of DevOps and MLOps practices.",
+      title: "MLOps Tools: MLflow and Hugging Face",
+      subtitle: "Gained practical knowledge of MLflow and Hugging Face for model management and deployment.",
       image: require("./assets/images/MLOps_Machine_Learning_Operation.png"),
       imageAlt: "ML Ops Certificate",
       footerLink: [
