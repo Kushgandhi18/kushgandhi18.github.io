@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my_portfolio/static/css/main.b422475e.css",
-    "main.js": "/my_portfolio/static/js/main.b9ec95ed.js",
+    "main.css": "/my_portfolio/static/css/main.539b1b1a.css",
+    "main.js": "/my_portfolio/static/js/main.ba5699da.js",
     "static/css/487.bb36206c.chunk.css": "/my_portfolio/static/css/487.bb36206c.chunk.css",
     "static/js/487.5da8d1f6.chunk.js": "/my_portfolio/static/js/487.5da8d1f6.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/my_portfolio/static/css/990.c6a7ee28.chunk.css",
@@ -13,6 +13,7 @@
     "static/media/Mathematics_and_Statistics_of_ML_and_DataScience.png": "/my_portfolio/static/media/Mathematics_and_Statistics_of_ML_and_DataScience.934a67032ad9eec79b09.png",
     "static/media/Algorithmic_Trading.png": "/my_portfolio/static/media/Algorithmic_Trading.1dc11dee1841bfd3d294.png",
     "static/media/Montserrat-Regular.ttf": "/my_portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/shoebuddy.png": "/my_portfolio/static/media/shoebuddy.535393494b6b75cd3247.png",
     "static/media/Agustina.woff": "/my_portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/Kush_Gandhi.pdf": "/my_portfolio/static/media/Kush_Gandhi.2a7c8f1b2d5348a7be5e.pdf",
     "static/media/manOnTable.svg": "/my_portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
@@ -23,15 +24,15 @@
     "static/media/skill.svg": "/my_portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/my_portfolio/index.html",
     "static/media/talksCardBack.svg": "/my_portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.b422475e.css.map": "/my_portfolio/static/css/main.b422475e.css.map",
-    "main.b9ec95ed.js.map": "/my_portfolio/static/js/main.b9ec95ed.js.map",
+    "main.539b1b1a.css.map": "/my_portfolio/static/css/main.539b1b1a.css.map",
+    "main.ba5699da.js.map": "/my_portfolio/static/js/main.ba5699da.js.map",
     "487.bb36206c.chunk.css.map": "/my_portfolio/static/css/487.bb36206c.chunk.css.map",
     "487.5da8d1f6.chunk.js.map": "/my_portfolio/static/js/487.5da8d1f6.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/my_portfolio/static/css/990.c6a7ee28.chunk.css.map",
     "990.d4baaf99.chunk.js.map": "/my_portfolio/static/js/990.d4baaf99.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b422475e.css",
-    "static/js/main.b9ec95ed.js"
+    "static/css/main.539b1b1a.css",
+    "static/js/main.ba5699da.js"
   ]
 }
