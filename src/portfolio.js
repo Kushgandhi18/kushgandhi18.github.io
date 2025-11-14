@@ -138,7 +138,7 @@ const bigProjects = {
       footerLink: [{ name: "View Project", url: "https://github.com/Kushgandhi18/PulseText-AI" }]
     },
     {
-      image: require("./assets/images/Algorithmic_Trading.png"),
+      image: require("./assets/images/shoebuddy.png"),
       projectName: "ShoeBuddy - Ecommerce",
       projectDesc: "Engineered a Flutter e-commerce app with secure authentication and an ML recommendation model that achieved a 72% increase in click-through rate.",
       footerLink: [{ name: "View Project", url: "https://github.com/Kushgandhi18/ShoeBuddy" }]
